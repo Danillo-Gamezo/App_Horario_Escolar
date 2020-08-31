@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">App_Horario_Aula</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="monday">SEGUNDA-FEIRA</string>
+    <string name="tuesday">TERÇA-FEIRA</string>
+    <string name="wednesday">QUARTA-FEIRA</string>
+    <string name="thursday">QUINTA-FEIRA</string>
+    <string name="friday">SEXTA-FEIRA</string>
+
+    <string name="segunda">Segunda</string>
+    <string name="terca">Terça</string>
+    <string name="quarta">Quarta</string>
+    <string name="quinta">Quinta</string>
+    <string name="sexta">Sexta</string>
+
+    <string name="bloco">BLOCO / AULA</string>
+    <string name="disciplina">DISCIPLINA</string>
+    <string name="laboratorio_sala">LABORATORIO / SALA</string>
+    <string name="fragment_cadastro">CADASTRAR</string>
+    <string name="fragment_alterar">ALTERAR</string>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/day_of_week_monday">
+
+    <fragment
+        android:id="@+id/day_of_week_monday"
+        android:name="br.com.santarosadigital.app_horario_aula.ui.horario.HorarioFragment"
+        android:label="@string/monday"
+        tools:layout="@layout/fragment_horario" />
+
+    <fragment
+        android:id="@+id/day_of_week_tuesday"
+        android:name="br.com.santarosadigital.app_horario_aula.ui.horario.HorarioFragment"
+        android:label="@string/tuesday"
+        tools:layout="@layout/fragment_horario" />
+
+    <fragment
+        android:id="@+id/day_of_week_wednesday"
+        android:name="br.com.santarosadigital.app_horario_aula.ui.horario.HorarioFragment"
+        android:label="@string/wednesday"
+        tools:layout="@layout/fragment_horario" />
+
+    <fragment
+        android:id="@+id/day_of_week_thursday"
+        android:name="br.com.santarosadigital.app_horario_aula.ui.horario.HorarioFragment"
+        android:label="@string/thursday"
+        tools:layout="@layout/fragment_horario" />
+
+    <fragment
+        android:id="@+id/day_of_week_friday"
+        android:name="br.com.santarosadigital.app_horario_aula.ui.horario.HorarioFragment"
+        android:label="@string/friday"
+        tools:layout="@layout/fragment_horario" />
+</navigation>
